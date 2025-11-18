@@ -29,6 +29,6 @@ Also getting familiar with Git and GitHub for version control and collaboration
 [LinkedIn]()
 
 ### ⚡ Fun fact
-I play guitar and drums in my free time - music is my favorite way to relax
+I play guitar and drums in my free time, music is my favorite way to relax
 
 
