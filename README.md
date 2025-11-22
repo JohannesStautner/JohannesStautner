@@ -26,7 +26,7 @@ Also getting familiar with Git and GitHub for version control and collaboration
 - Linux (beginner)
 
 ### 📫 How to reach me
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/in/johannes-stautner-b31144362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### ⚡ Fun fact
 I play guitar and drums in my free time, music is my favorite way to relax
